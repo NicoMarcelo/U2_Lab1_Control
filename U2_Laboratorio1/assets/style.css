@@ -1,0 +1,17 @@
+body{
+    background-color:antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+label{
+    text-align: center;
+    margin-left: 48%;
+}
+
+input{
+    text-align: center;
+    margin-left: 45%;
+}
